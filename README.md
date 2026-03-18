@@ -1,5 +1,5 @@
 # lecture-RT604
-RT604 Advancded mobile system (고등 모빌리티공학)
+RT604 Advanced Mobile System (고등 모빌리티공학)
 - 2026 Spring 
 
 ## TLDR; 
