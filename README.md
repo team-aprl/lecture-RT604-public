@@ -6,7 +6,7 @@ RT604 Advanced Mobile System (고등 모빌리티공학)
 - (graduate-level) Introduction to mobile robotics and 3D perception
 - Introduction to SLAM
 
-## Slides 
+## Lecture Slides 
 - https://drive.google.com/drive/folders/1uVtat3fnxGm2dAPnhKjCvReUyfkP_nDU?usp=sharing 
 
 ## Demos 
